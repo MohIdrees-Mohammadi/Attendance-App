@@ -20,10 +20,8 @@ This project is a React Native Expo application designed to manage student atten
   npm install -g expo-cli
 
 
-##Installation
-
-
-###Clone the Repository
+## Installation
+### Clone the Repository
 
 
  ```bash
