@@ -25,7 +25,7 @@ cd SmartAttendance
 ### Install Dependencies
 ```bash
 npm install
-
+```
 ## Configuration
 ### Firebase Configuration
 Open the firebaseconfig.js file in the firebase directory and add your Firebase settings:
