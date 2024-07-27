@@ -16,25 +16,18 @@ This project is a React Native Expo application designed to manage student atten
 
 - **Node.js:** Ensure Node.js is installed. You can download it from [Node.js official website](https://nodejs.org/).
 
-  ```bash
-  npm install -g expo-cli
-
-
 ## Installation
 ### Clone the Repository
  ```bash
 git clone https://github.com/MohIdrees-Mohammadi/SmartAttendance.git
 cd SmartAttendance
 
-  ```bash
-  npm install -g expo-cli
-
-###Install Dependencies
+### Install Dependencies
 ```bash
 npm install
 
-##Configuration
-###Firebase Configuration
+## Configuration
+### Firebase Configuration
 Open the firebaseconfig.js file in the firebase directory and add your Firebase settings:
 ```bash
 export default {
@@ -48,6 +41,6 @@ export default {
   measurementId: 'YOUR_MEASUREMENT_ID'
 };
 
-##Running the Application
+## Running the Application
 ```bash
 npm start
