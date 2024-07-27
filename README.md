@@ -18,9 +18,14 @@ This project is a React Native Expo application designed to manage student atten
 
   ```bash
   npm install -g expo-cli
-  
+
+
 ##Installation
+
+
 ###Clone the Repository
+
+
  ```bash
 git clone https://github.com/MohIdrees-Mohammadi/SmartAttendance.git
 cd SmartAttendance
